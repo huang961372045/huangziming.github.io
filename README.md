@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages from Huang Ziming
+## Welcome to HuangZiming’s Blog
 
 You can use the [editor on GitHub](https://github.com/huang961372045/huang961372045.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
